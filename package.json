@@ -1,0 +1,11 @@
+{
+  "name": "mcp-yeswehack",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx server.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
